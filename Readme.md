@@ -1,8 +1,14 @@
-# Objectives
-In this project section I want to show my knowledge developing several practical cases including some important subjects:
-- Metrics;
-- Key Performance Indicators (KPIs);
-- Reports;
-- Data analysis;
-- Data manipulation (Data Extraction, Exploratory Data Analysis (EDA), Data Cleansing and Data Transformation for Data Analysis) using (PANDAS, NUMPY and SCIPY).
-- Technical interviews.
+# Introduction
+In this section, I showcase my expertise through practical case studies covering key topics in data analysis and business intelligence. The subjects include:
+
+    - Metrics & Key Performance Indicators (KPIs) – Defining and analyzing business-critical metrics
+    - Reports – Creating insightful and actionable reports
+    - Data Analysis – Extracting meaningful insights from raw data
+    - Data Manipulation – Handling data efficiently, including:
+        - Data Extraction
+        - Exploratory Data Analysis (EDA)
+        - Data Cleansing & Transformation for analysis
+        - Using Pandas, NumPy, and SciPy for data processing and statistical analysis
+    Technical Interviews – Solving real-world data challenges and SQL/BI-related problems
+
+These cases demonstrate my ability to turn raw data into valuable insights, optimize business decisions, and solve analytical challenges effectively.
